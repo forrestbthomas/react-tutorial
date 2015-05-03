@@ -7,6 +7,7 @@ var CommentBox = React.createClass({
     return (
       <div className="commentBox">
         <h1>Hello, world! I am a Comment Box Thing.</h1>
+
         <CommentList />
         <CommentForm />
       </div>
